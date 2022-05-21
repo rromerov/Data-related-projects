@@ -1,2 +1,2 @@
 # Data-related-projects
-Data science &amp; Data analyst portafolio
+Data science &amp; data analyst portafolio
